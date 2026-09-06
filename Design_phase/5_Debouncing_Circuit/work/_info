@@ -1,0 +1,105 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1788221307
+Vnn@hUE:=R1ZSf8B2:P_cF1
+04 21 4 work tb_Debouncing_Circuit fast 0
+=1-040e3c95a172-6a96177a-1b3-5538
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vcounter
+Z2 !s110 1788221300
+!i10b 1
+!s100 DQSm_A>8aiTT5kg:X?3fc1
+I6A342;F@Lc?0`:MN;6iO63
+Z3 dD:/NTI/Digital_Design/5_Debouncing_Circuit
+w1788114968
+8Counter.v
+FCounter.v
+!i122 26
+L0 5 39
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1788221300.000000
+Z7 !s107 tb_Debouncing_Circuit.v|Debouncing_Circuit.v|Counter.v|
+Z8 !s90 -reportprogress|300|Counter.v|Debouncing_Circuit.v|tb_Debouncing_Circuit.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vDebouncing_Circuit
+R2
+!i10b 1
+!s100 :DH[9C]VLlGcnL^n2dOX@3
+Ie?WTe?[cb7T=m14ebimGJ3
+R3
+w1788117067
+8Debouncing_Circuit.v
+FDebouncing_Circuit.v
+!i122 26
+L0 6 179
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@debouncing_@circuit
+vtb_Debouncing_Circuit
+R2
+!i10b 1
+!s100 l6O7jC^KiR=aGX:1jT`^L3
+IOCH7m242kIn_IzfCEafP80
+R3
+w1788221163
+8tb_Debouncing_Circuit.v
+Ftb_Debouncing_Circuit.v
+!i122 26
+L0 3 94
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+ntb_@debouncing_@circuit
